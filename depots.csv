@@ -1,0 +1,148 @@
+﻿Depot,Code,long,lat,address,city,area,PostCode
+F/L Doncaster,8995,53.5085,-1.1272,NULL,Doncaster,Doncaster,DN4 5PD
+GB Railfreight,9005,53.5257,-1.134,C/O Tibbett & Britten Doncaster International Railport Decoy Bank South ,Doncaster,Doncaster,DN4 5PD
+Belfast Quay,9015,NULL,NULL,NULL,Belfast,Belfast,NULL
+Greenock Quay,9031,55.9541,-4.7657,NULL,Greenock,Inverclyde,PA16 8UU
+John Joy Welding,9041,51.479,0.2942,Europa Trading Centre London Road,Grays,Thurrock,RM20 4DB
+Lakeside Container Services,9042,51.479,0.2942,Europa Trading Centre London Road,Grays,Thurrock,NULL
+Countrywide Freight Limited,9045,51.48175626,0.308941184,Askew Farm Road,Grays,Thurrock,RM17 5XR
+F/L Cleveland,8990,54.5838,-1.1343,Trunk Road Grangetown,Middlesbrough,Middlesbrough,TS6 7SDF
+Cleveland Containers,9004,54.5796,-1.1594,Cleveland House Grangetown,Middlesbrough,Middlesbrough,TS6 6UA
+Potters Ely,8998,52.4035,0.2899,Queen AdelaideWay ,Ely,Cambridgeshire,CB7 4UB
+GB Rail Daventry,9025,52.3479,-1.128,NULL,Daventry,Northamptonshire,NULL
+Grangemouth Quay,9010,56.0241,-3.70457,NULL,Grangemouth,Falkirk,FK3 8UE
+Duncan Adams,9033,56.004,-3.7069,Central Dock Road Grangemouth Dock,Grangemouth,Falkirk,FK3 8OB
+Container Care,9039,53.3528,-2.9066,Progress House Dock Road Garston,Liverpool,Liverpool,NULL
+Eldapoint Liverpool,9040,53.4776,-2.8557,NULL,Liverpool,Liverpool,NULL
+F/L Garston,8993,53.3528,-2.9058,NULL,Liverpool,Liverpool,L19 2JN
+Liverpool Quay,9008,53.4663,-3.01943,NULL,Liverpool,Liverpool,L21 1JR
+F/L Coatbridge,8991,55.8701,-4.0399,NULL,Coatbridge,North Lanarkshire,ML5 2DR
+Frasers Coatbridge,9000,55.8714,-4.0354,HORNOCK ROAD GARTSHERRIE IND EST,Coatbridge,North Lanarkshire,ML5 2DX
+Newell & Wright Transport Ltd,9035,53.4172,-1.3939,Templeborough Depot,Sheffield,Sheffield,S9 1RT
+Hull Quay,9034,53.76695913,-0.32683752,Hull Quay,Hull,"Kingston upon Hull, City of",NULL
+Containerbase Barking,9026,51.5291,0.1199,NULL,Barking,Barking and Dagenham,NULL
+F/L Manchester,8994,53.4627,-2.3013,Off John Gilbert Way Trafford Park,Manchester,Greater Manchester,M17 1FA
+Olympic Storage,9002,53.4685,-2.2081,NULL,Manchester,Greater Manchester,M12 5NL
+Thamesport Quay,9018,51.4431,0.6879,Thamesport,Thamesport,Medway,NULL
+Pentalver Felixstowe,9006,51.9652,1.3189,NULL,Felixstowe,Suffolk,IP11 4XQ
+Felixstowe Quay,9007,51.9591,1.31407,Trinity Terminal,Felixstowe,Suffolk,NULL
+Countglade Warehousing,9011,51.9515,1.3342,ORWELL TERMINAL WALTON AVENUE,Felixstowe,Suffolk,IP11 3HE
+ACS,8987,51.9604,1.3138,Unit 2/3 Nicholas Road,Felixstowe,Suffolk,IP11 4AT
+Off Hire - DO NOT USE,9023,NULL,NULL,NULL,Felixstowe,Suffolk,NULL
+DHL Container Logistics,9032,51.9515,1.3342,Blofield Road,Felixstowe,Suffolk,IP11 4XQ
+East Anglian Freight Terminal,9009,51.9515,1.3342,PARKER AVENUE,Felixstowe,Suffolk,IP11 4HF
+Transworld,9003,53.3547,-2.7361,Wandsworth Way Pitt Street,Widnes,Halton,NULL
+OConnors Transport,9012,53.3552,-2.7477,NULL,Widnes,Halton,WA8 0PE
+AHC Widnes,9024,53.3597,-2.7631,NULL,Widnes,Halton,NULL
+F/L Leeds,8992,53.7687,-1.5131,Valley Farm Road Wakefield Road Stourton,Leeds,Leeds,LS10 1SD
+Tyne Logistics,9013,54.9785,-1.4486,NULL,South Shields,South Tyneside,NE33 5SP
+S Jones Containers Ltd,9036,52.6047,-1.9424,Anglian Road,Aldridge,Walsall,WS9 8ET
+EWS Wakefield,9027,53.7155,-1.4122,NULL,Wakefield,Wakefield,WF6 2RH
+F/L Cardiff,8989,51.5097,-3.0981,Newlands Road Wentloog,Cardiff,Cardiff,CF3 8ER
+M A Rees & Son Ltd,9030,51.4696,-3.1435,Tyneside Road Port of Cardiff,Cardiff,Cardiff,CF10 4LY
+Tees Dock,9014,54.5937,-1.1437,The Dock,Teesport,Redcar and Cleveland,TS6 6UD
+F/L Birmingham,8988,52.4828,-1.8726,Landor Street,Birmingham,Birmingham,B8 1AJ
+Tilbury Quay,9017,51.4626,0.35257,"Tilbury, Essex.",Tilbury,Essex,NULL
+Grenco,9020,51.4728,0.2754,C/O SEABOURNE OLIVER ROAD WEST THURROCK GRAYS,Tilbury,Essex,RM20 3ED
+Wincanton,9044,51.457,0.3625,Riverside Rail Terminal Ferry Road,Tilbury,Essex,NULL
+Potters Selby,8999,53.7855,-1.0556,Barlby Road,Selby,North Yorkshire,YO8 5DZ
+Hams Hall,9059,52.5193,-1.7045,ABP Connect Hams Hall Railfreight Terminal Edison Road,Coleshill,Warwickshire,B46 1DA
+Goldstar Woolpit,9001,52.228,0.8943,NULL,Woolpit,Suffolk,IP30 9RH
+Bristol Quay,9028,51.4866,-2.71668,NULL,Portbury,"Bristol, City of",BS11 9DQ
+London Container Services,9043,51.5157,0.1849,NULL,Rainham,"Havering, Greater London",RM13 9BU
+Dublin Quay,9021,NULL,NULL,NULL,Dublin,,NULL
+CSM Dagenham,8996,51.524,0.1394,Chequers Lane,Dagenham,Barking and Dagenham,NULL
+Bulman Marine,9038,51.5234,0.1364,Choats Road Off Choats Manorway,Dagenham,Barking and Dagenham,NULL
+Ipswich Quay,9016,NULL,NULL,FERRYWAYS,Ipswich,Suffolk,NULL
+Medite Warehouse,9019,52.1052,1.0934,NULL,Great Blakenham,Suffolk,NULL
+Denholms,8997,51.5011,-2.6895,Bristol ICD,Avonmouth,"Bristol, City of",NULL
+Seabourne,9046,51.4728,0.2754,Oliver Road West Thurrock Grays,West Thurrock,Essex,RM20 3ED
+Bulmers Hull,9050,53.742,-0.2322,Staithes Road Off Headon Road,Hull,"Kingston upon Hull, City of",HU12 8DX
+Universal Container Services,9047,53.4816,-2.2362,BOUNDRY TRADING PARK LIVERPOOL ROAD,Manchester,Greater Manchester,M44 6FB
+Roadways Container Logistics,9048,53.46321708,-2.339639213,(Manchester Containerbase) Barton Dock Road Urmston,Manchester,Greater Manchester,M41 7BQ
+Freightliner - Roadways Container Logistics,9049,53.4671,-2.3525,Manchester Container Base Barton Dock Road,Urmston,Trafford,M41 7BQ
+W H Malcolm,9051,52.3468,-1.1351,CELTIC WAY D I R F T SOUTH,Crick,Northamptonshire,NN6 7GW
+W H Malcolm,9052,56.0117,-3.7432,TILLYFLATS LAURIESTON ROAD,Grangemouth,Falkirk,FK3 8XT
+P D Stirling Ltd,9053,55.8187,-4.0068,NULL,Bellshill,North Lanarkshire,ML14 1RR
+EWSI Euro Terminal,9054,53.4816,-2.2362,WESTINGHOUSE ROAD TRAFFORD PARK,Manchester,Greater Manchester,M17 1FA
+North Sea Ferries Terminal,9056,54.60248634,-1.141070662,Tees Dock Grangetown,Middlesbrough,Middlesbrough,TS6 6UD
+Northern Containers,9057,53.7967,-1.5505,HAIGH ROAD STOURTON,Leeds,Leeds,LS10 1RT
+Portland Harbour Authority,9058,50.5587,-2.4429,CASTLETOWN PORTLAND DORSET,Portland,Dorset,NULL
+bangkok,1,NULL,NULL,NULL,Bangkok,,NULL
+AARHUS STEVEDORE KOMPAGNI,2,NULL,NULL,"Europaplads 16, po box 259",Aarhus,Region Midtjylland,dk 8110
+A.P.Moller Terminals,3,NULL,NULL,NULL,Aro,Region Syddanmark,8000
+lucia,4,NULL,NULL,NULL,Geneve,Genève (fr),NULL
+lucia,5,NULL,NULL,NULL,Lucko,,NULL
+Loosli Sarl,6,NULL,NULL,"8a, chemin de B dex",Antwerp,Antwerpen (VLG),CH-1226
+JMD Haulage,9060,53.4601,-3.0074,REGENTS ROAD,Bootle,Sefton,L20 1BL 
+W H Malcolms Newhouse,9061,55.8285,-3.9085,Old Edinburgh Road Newhouse Industrial Estate,Newhouse,North Lanarkshire,ML1 5RY
+Felixstowe Port Container Services,9062,51.9515,1.3342,86 PARK THE DOCK ,Felixstowe,Suffolk,IP11 4HQ
+Irlam Container Terminal,9063,53.4816,-2.2362,Wharf Road Irlam,Manchester,Greater Manchester,M44 6BP
+John Mitchell Ltd,9064,56.004,-3.7069,NULL,Grangemouth,Falkirk,NULL
+O`Connors,9065,53.3593,-2.7309,1 the street,Widnes,Halton,L6
+Ralph Morton Transport Ltd.,9066,51.9515,1.3342,PLOT C PARKER AVENUE,Felixstowe,Suffolk,IP11 4HF
+Transworld,9067,53.3593,-2.7309,WANSWORTH WAY,Widnes,Halton,WA8 0TG
+Bulman Marine,9068,51.5401,0.0768,84 RIVER ROAD,Barking,Barking and Dagenham,IG11 0DS
+Wincanton,9069,51.465,0.3483,KEVIN DE'COURT DEPOT MANAGER RIVERSIDE TERMINAL  FERRY ROAD,Tilbury,Essex,RM18 7NH
+Pentalver Tilbury,9070,51.465,0.3483,BERTH 45 TILBURY DOCKS,Tilbury,Essex,RM18 7DN
+European Freight Terminal,9055,55.7939,-3.9862,NULL,Motherwell,North Lanarkshire,M17 1FA
+Immingham Quay,9029,53.6117,-0.2245,Immingham,Immingham,North East Lincolnshire,NULL
+PARIS - DO NOT USE,9071,NULL,NULL,TEST,Felixstowe,Suffolk,NULL
+Container Team,9072,51.312,-2.8245,"UNIT A, WESTON EUROPARK, WINTERSTOKE ROAD",Weston-Super-Mare,North Somerset,BS24 9AA
+Leavesley Container Services,9073,52.788,-1.6566,LICHFIELD  ROAD BURTON ON TRENT,Branston,Staffordshire,NULL
+Freightliner Cardiff,9074,51.4718,-3.1859,"South Wales International Freight Terminal Newlands Road, Wentloog, Cardiff",Cardiff,Cardiff,CF3 2EU
+Roadways Container Logistics,9075,53.4816,-2.2362,MANCHESTER CONTAINERBASE BARTON DOCK ROAD,Manchester,Greater Manchester,M41 7BQ
+ACS Reefer Services,9076,51.9515,1.3342,Unit 2/3 Nicholas Road,Felixstowe,Suffolk,IP11 4AT
+Eldapoint Grangemouth,9077,56.004,-3.7069,LAURIESTON ROAD THORNBRIDGE,Grangemouth,Falkirk,FK3 8XX
+FELIXSTOWE SOUTH REDEVELOPMENT,9078,51.9515,1.3342,Languard,Felixstowe,Suffolk,NULL
+FELIXSTOWE BERTHS 8+9,9079,NULL,NULL,LANGUARD,Felixstowe,Suffolk,NULL
+Wincanton Alconbury,9037,52.3666,-0.2633,BUILDING 760 ALCONBURY AIRFIELD,Alconbury,Cambridgeshire,PE28 4WX
+Eldapoint Greenock,9080,55.9345,-4.7433,CHARLEYWOOD ROAD,Greenock,Inverclyde,NULL
+Pentalver Cannock,9081,52.6888,-2.049,Pentalver Way,Cannock,Staffordshire,WS11 8XY
+Eldapoint Felixstowe,9083,51.9515,1.3342,Sub Station Dock,Felixstowe,Suffolk,IP11 3JB
+Southampton Quay,9084,50.8877,-1.3715,204/207 WESTERN DOCKS,Southampton,Southampton,SO15 1DA
+Eldapoint Liverpool,9085,53.4561,-2.852,NULL,Knowsley,Knowsley,NULL
+EWS Mossend,9086,55.8167,-4,Eurocentral,Mossend,North Lanarkshire,ML4
+Pentalver Southampton,9087,50.8877,-1.3715,"Dock Gate 10 West Bay Road, Western Docks",Southampton,Southampton,SO15 1AW
+Seafast Celsius,9088,51.9515,1.3342,"Cold Store Road, The Port of Felixstowe",Felixstowe,Suffolk,IP11 3BG
+Wincanton-Greenham Common,9089,51.3855,-1.3056,Apron Road New Greenham Park,Newbury,West Berkshire,RG19 6HN
+BIFT (Birmingham Intermodal Fr,9090,52.6172,-1.6839,Ansley Hall Drive Birch Coppice Business Park,Tamworth,Staffordshire,B78 1SQ
+Freightliner Bristol,9091,51.4563,-2.5974,"South Liberty Lane  Bedminster, Bristol,",Bristol,"Bristol, City of",BS3
+MSC GATE,9092,NULL,NULL,NULL,Bremerhaven,Bremen (Hansestadt),NULL
+Eldapoint Kirkby,9093,53.3996,-2.9689,Charley wood road Knowsley ind park north,Liverpool,Liverpool,L33 7SG
+London Gateway,9094,51.50847115,0.462416404,The Manorway,London Gateway Port,Thurrock,NULL
+DP World 1,9095,51.5187,0.4645,The Manorway,London Gateway Port,Thurrock,NULL
+DP World London Gateway,9097,51.5187,0.4645,NULL,London Gateway Port,Thurrock,SS17 9DY
+DP World London,9096,51.3831,-0.3355,The Manor Way,London Gateway Port,Thurrock,NULL
+PD Logistics,9098,53.5797,-0.6263,"Midland Rd,",Scunthorpe,North Lincolnshire,DN16 1DG
+Pentalver London Gateway,9099,51.5213,0.4543,NULL,Stanford-le-Hope,Thurrock,SS17 9PD
+Concare,9100,56.0241,-3.7046,c/o The Dock,Grangemouth,Falkirk,F3 8UE
+W H Malcolms,9101,55.9345,-4.7433,"2 BURNBRAE ROAD, LINWOOD INDUSTRIAL ESTATE",Greenock,Inverclyde,PA3
+Burton Road and Rail,9102,52.8049,-1.6349,"Derwent Park industrial park Hawkins Lane,",Burton upon Trent,Staffordshire,DE14 1QA
+CSM Grays ,9103,51.4953,0.3225,609 London Road,Grays,Thurrock,RM20 3BJ
+Eldapoint Southampton,9104,50.8877,-1.3715,Eling Wharf Totton High Street,Southampton,Southampton,SO40 4JN
+Avon Site Trans Ltd,9105,51.50853182,-2.697410532,Avonsite Port Edward Centre,Bristol,"Bristol, City of",BS11 9HS
+A&D Logistics,9106,55.856,-4.2579,23 Pegasus Avenue,Glasgow,Glasgow City,PA1 2FE
+Newell & Wright Container Term,9107,53.429,-1.3582,"Sheffield Road,",Rotherham,Rotherham,S60 1BN
+Maritime Transport Ltd,9108,51.465,0.3483,"Tilbury Railport, Ferry Road",Tilbury,Essex,RM18 7NH
+Tilbury Depot,9109,51.465,0.3483,Tilbury Quay,Tilbury,Essex,RM18 7EH
+Liverpool Depot,9110,53.3996,-2.9689,NULL,Liverpool,Liverpool,L21 1JR
+Campbell Port Services Ltd,9111,55.9345,-4.7433,Greenock Ocean Terminal Patrick Street,Greenock,Inverclyde,PA16 8UU
+Maritime Leeds,9112,53.77536827,-1.511288478,1 Lockside Road,Leeds,Leeds,LS10 1EP
+Titan Containers,9113,51.5085986,-2.697442718,Port Edward Centre St Andrew Road,Bristol,"Bristol, City of",BS11 9HS
+LCS Container Services,9114,52.8049,-1.6349,Lichfield Road,Burton upon Trent,Staffordshire,DE14 3HD
+Westfield Storage,9115,55.9639,-3.9943,Deerdykes Road Westfield Ind Est,Cumbernauld,North Lanarkshire,G68 9HF
+Rigrite,9116,51.9515,1.3342,NULL,Felixstowe,Suffolk,NULL
+Cargo Secure,9117,51.9515,1.3342,NULL,Felixstowe,Suffolk,NULL
+1ST Containers UK Ltd,9118,51.517,0.1914,MARSHVIEW IND ESTATE  OFF FERRY LANE NORTH,Rainham,"Havering, Greater London",RM13 9DD
+Haulier's Yard in Daventry,9119,52.2607,-1.1649,NULL,Daventry,Northamptonshire,NN6 7JZ
+Maritime Transport - Off Hire,9120,51.465,0.3483,Tilbury Railport Ferry Road,Tilbury,Essex,RM18 7NH
+Corstor,9121,51.9515,1.3342,Sub Station Road,Felixstowe,Suffolk,IP11 3JB
+Al-Hushoom ICD,9122,NULL,NULL,PO BOX 20831,Dar es Salaam,Dar es Salaam,.
+Campbell Port Services Ltd,9123,56.004,-3.7069,East Quay Wall Grangemouth Docks,Grangemouth,Falkirk,FK3 SUE
+Fielding Transport,9124,51.465,0.3483,NULL,Tilbury,Essex,RM18 7HB
+Iport Rail Ltd,9125,53.484028,-1.107424,NULL,Doncaster,Doncaster,DN11 0BF
+Maritime Transport Ltd,9126,51.9203,-0.6383,NULL,Leighton Buzzard,Bedfordshire,NULL
+Goldstar Transport Ltd,9127,53.4561,-2.852,NULL,Knowsley,Knowsley,NULL
+Felixstowe North Rail,9128,51.9515,1.3342,NULL,Felixstowe,Suffolk,NULL
+Felixstowe South Rail,9129,51.9515,1.3342,NULL,Felixstowe,Suffolk,NULL
